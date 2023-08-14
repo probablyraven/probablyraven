@@ -1,16 +1,19 @@
-### Hi there 👋
+def about_me():
+    name = "Raven"
+    profession = "Student"
+    location = "Banglades"
+    bio = "undefined"
 
-<!--
-**probablyraven/probablyraven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+    print("📫 You can reach me at:)
+    print("   - Email: probablyraven@protonmail.com"")
+    print("   - Discord : probablyraven")
+    print("   - Instagram : https://instagram.com/probablyraven")
+    print("   - Telegram: https://t.me/probablyraven")
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+if __name__ == "__main__":
+    about_me()
+
+
+
+
