@@ -1,9 +1,10 @@
 ```py
 def about_me():
-    name = "Raven"
-    profession = "Student"
-    location = "Banglades"
-    bio = "undefined"
+    self.name = "Raven"
+    self.profession = "Student"
+    self.age = "16"
+    self.location = "Bangladesh"
+    self.bio = "undefined"
 
 
     print("📫 You can reach me at:)
